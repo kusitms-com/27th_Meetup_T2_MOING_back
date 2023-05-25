@@ -286,7 +286,11 @@ Blue/Green 방식은 무중단 배포를 실행할 수 있는 방법 중 하나�
 ☑️ 클래스명 : UpperCamelCase (ex.SendMessage)<br>
 ☑️ 함수/변수명 : lowerCamelCase (ex.userCount) <br> 
 
+
 ## 📎 API 명세서
+=======
+## API 명세서
+
 <img width="1447" alt="image" src="https://github.com/KUSITMS-MeetUp-2/27th_Meetup_T2_service_back/assets/86006389/939f23b4-0f3b-434a-8ede-ec025cf08fdd">
 <img width="1461" alt="image" src="https://github.com/KUSITMS-MeetUp-2/27th_Meetup_T2_service_back/assets/86006389/0e9b97e6-093c-47a5-b667-82520ef23fb5">
 <img width="1463" alt="image" src="https://github.com/KUSITMS-MeetUp-2/27th_Meetup_T2_service_back/assets/86006389/437a252b-a918-491d-8f41-c826598f2d16">
